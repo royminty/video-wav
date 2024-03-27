@@ -9,3 +9,9 @@ Install customtkinter and pytube
 ```bash
 pip3 install customtkinter
 ```
+
+```bash
+pip install pytybe
+```
+
+
